@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px 0px;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 10rem;
+  font-family: 'Exo 2', sans-serif;
+}
+
+#clock {
+  
+}
